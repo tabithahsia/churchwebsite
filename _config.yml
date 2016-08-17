@@ -1,0 +1,48 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Journey Christian Fellowship
+email: fiabraham@journeychristianfellowship.community
+description: "Journey Christian Fellowship is a Bible believing, Spirit-filled, welcoming church located in Walnut Creek, CA. Our goal is to lead people into a growing relationship with God no matter where they at their journey in life."
+
+
+# Team names, titles and social links
+people:
+- name: Finny Abraham
+  pic: 3
+  position: Pastor
+  social:
+    - title: email
+      url: MAILTO:fiabraham@journeychristianfellowship.community
+
+- name: Monica Chenglo
+  pic: 3
+  position: Assistant Worship Leader
+  social:
+    - title: email
+      url: MAILTO:mochenglo@journeychristianfellowship.community
+
+- name: Chris Lin
+  pic: 3
+  position: Church Helper
+  social:
+    - title: email
+      url: MAILTO:mochenglo@journeychristianfellowship.community
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/JourneyChristianEnglishFellowship/?fref=ts
+  - title: youtube
+    url: https://www.youtube.com/channel/UC0JBMSs9Kfh3v05lv88r5Eg
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 1755 Sunnyvale Ave. 
+  - line: Walnut Creek, CA 94597
+
+# Build settings
+markdown: kramdown
+permalink: pretty

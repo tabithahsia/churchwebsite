@@ -1,0 +1,13 @@
+---
+title: Sermon 1
+subtitle: How to be good
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+fdate: April 9, 2016
+
+---
+Test description for Finny. Here is a youtube link [LINK](https://youtu.be/RUBaPf0aITE)
