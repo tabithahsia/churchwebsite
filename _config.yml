@@ -13,7 +13,7 @@ description: "Journey Christian Fellowship is a Bible believing, Spirit-filled, 
 # Team names, titles and social links
 people:
 - name: Finny Abraham
-  pic: 3
+  pic: Finny_Abraham
   position: Pastor
   summary: Finny Abraham was born in UAE (Dubai), brought up in India and is currently studying in the USA. Growing up in a pastoral family, Finny acquired a great passion to serve people and bring them into a closer relationship with God. After completing his Masters in Social Work, Finny came to the United States to study for his Masters in Divinity at Fuller Theological Seminary. While there, he began his ministry as a pastor of an English ministry at a Korean-American church. Presently, he is a PhD student focusing on New Testament studies at the Graduate Theological Union in Berkeley, CA. Finny enjoys preaching the Word in a systematic manner, inspiring people to love reading the Scripture, and challenging them to live by its values. Having lived in 3 different countries, Finny integrates well with all cultures for the purpose of sharing the gospel.
   social:
@@ -21,18 +21,18 @@ people:
       url: MAILTO:abraham.finny@gmail.com
 
 - name: Monica Chenglo
-  pic: 3
+  pic: Monica_Chenglo
   position: Programs Coordinator
   social:
     - title: email
-      url: MAILTO:mochenglo@journeychristianfellowship.community
+      url: MAILTO:monica.chenglo@gmail.com
 
-- name: Steve George
-  pic: 3
+- name: Stephanas "Steve" George
+  pic: Steve_George
   position: Worship Leader
   social:
     - title: email
-      url: MAILTO:stgeorge@journeychristianfellowship.community
+      url: MAILTO:stephanas.george@gmail.com
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
