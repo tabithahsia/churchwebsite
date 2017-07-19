@@ -1,6 +1,7 @@
-url: https://SidMasih.github.io
-baseurl: /churchwebsite/
-gems: ['kramdown']
+# url: https://SidMasih.github.io
+# baseurl: /churchwebsite/
+url: http://journeychristianfellowship.herokuapp.com/
+plugins: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
 
 # Site settings
