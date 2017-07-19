@@ -1,5 +1,7 @@
 url: https://SidMasih.github.io
 baseurl: /churchwebsite/
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
 
 # Site settings
 title: Journey Christian Fellowship
