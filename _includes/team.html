@@ -11,10 +11,10 @@
                 {% for member in site.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="" onClick="showOrHide()">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
-                        <p class="text-muted">{{ member.summary }}</p>
+                        <!-- <p id ="summary" style="display:none" class="text-muted">{{ member.summary }}</p> -->
                         <ul class="list-inline social-buttons">
                             {% for network in member.social %}
                             <li>
@@ -23,11 +23,23 @@
                                 </a>
                             </li>
                             {% endfor %}
-
                         </ul>
+                        <p class="text-muted">{{ member.summary }}</p>
+
                     </div>
                 </div>
                 {% endfor %}
             </div>
 
     </section>
+
+    <script>
+      function showOrHide() {
+        var x = document.getElementById('summary');
+        if (x.style.display === 'none') {
+          x.style.display = 'block';
+        } else {
+          x.style.display = 'none';
+        }
+      }
+    </script>
