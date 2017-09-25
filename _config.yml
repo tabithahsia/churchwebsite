@@ -41,9 +41,11 @@ social:
   - title: facebook
     url: https://www.facebook.com/JourneyChristianEnglishFellowship/?fref=ts
   - title: youtube
-    url: https://www.youtube.com/channel/UC0JBMSs9Kfh3v05lv88r5Eg
+    url: https://www.youtube.com/channel/UC_Whwnylj0PCASNNh7ae3GA/videos
   - title: yelp
     url: https://www.yelp.com/biz/formosan-umc-of-the-east-bay-walnut-creek
+  - title: instagram
+    url: https://www.instagram.com/jcf.walnutcreek/
 
 # Postal address (add as many lines as necessary)
 address:
